@@ -1,5 +1,6 @@
 # Websites written by
-##  Detarus Inc.
+##  Detarus.
+![The logo of mine](https://github.com/detarus/BasicWebsite/blob/master/images/logo-256.png?raw=true)
 ### Hi. In this rep soon enough you'll be able to find the masterpiece of original(or not) freelance website base of my own.
 ### At the moment there are (0) sites available.
 
