@@ -1,19 +1,19 @@
-# Websites written by
+# Список авторских веб-сайтов от автора
 ##  Detarus.
-![The logo of mine](https://raw.githubusercontent.com/detarus/BasicWebsite/master/images/logo-256.png)
-### Hi. In this rep soon enough you'll be able to find the masterpiece of original(or not) freelance-based websites by me myself.
-### The whole repository should be considered as my real-work resume.
-### At the moment there are (0) sites available.
+![Моё лого](https://raw.githubusercontent.com/detarus/BasicWebsite/master/images/logo-256.png)
+### Привет. В скором времени здесь будут размещены мои публичные работы выполненные на фрилансе.
+### Весь репозиторий следует рассматривать в качестве резюме.
+### На данный момент доступно (0) сайтов
 
-### You can find them on the clickable list right above:
+### Все доступные сайты можно просмотреть, кликнув на списке ниже:
 
-* none (Will upload tommorow)
-* none (Will be uploaded in a 2-3 days)
-* none (Will be uploaded someday on the next week)
+* нету (Будет загружен завтра)
+* нету (Будет загружен в течении 2-3 дней)
+* нету (Будет загружен на следующей неделе)
 
-### Thank you for visiting this repository
+### Благодраю за потраченное на просмотр время!
 
-### Feel free to contact me anytime for any help & job.
+### Можете обращаться ко мне в любое время за помощью & с предложением работы
 
-## See you later,
-### Dmitrii Tareev
+## До скорой встречи,
+### Дмитрий Тареев
