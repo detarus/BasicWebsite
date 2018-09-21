@@ -7,7 +7,7 @@
 
 ### You can find them on the clickable list right above:
 
-* none (Will upload tommorow)
+* [A barbershop Example Site](https://github.com/detarus/Barber)
 * none (Will be uploaded in a 2-3 days)
 * none (Will be uploaded someday on the next week)
 
